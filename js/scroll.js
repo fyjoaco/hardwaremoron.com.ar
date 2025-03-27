@@ -39,4 +39,4 @@ $(document).ready(function() {
   $('#navbarSupportedContent').on('hidden.bs.collapse', function() {
     $('.navbar-toggler').addClass('collapsed');
   });
-});
+}); 
